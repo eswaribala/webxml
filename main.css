@@ -1,0 +1,69 @@
+menu
+{
+	display: block;
+	margin-left:5%;
+}
+ul li
+{
+	
+	text-decoration: none;
+	font-size: x-large;
+	color: blue;
+	margin-right:5%;
+	background-color:olive;
+	border-radius:20px 0px 20px 0px;
+	display: inline;
+	text-align: center;
+}
+ul li:hover
+{
+	background-color: red;
+}
+ul li a
+{
+	text-decoration: none;
+}
+section
+{
+	margin-left:15%;
+	width:80%;
+	height:100px;
+}
+.formstyle
+{
+	width:80%;
+	margin-left: 5%;
+	
+}
+input
+{
+	width:60%;
+	font-size: x-large;
+	margin-bottom: 2%;
+	margin-left: 20%;
+}
+img
+{
+	width:40%;
+	height:100px;
+	float:left;
+}
+fieldset
+{
+	width:60%;
+	margin-left: 25%;
+	
+}
+legend
+{
+	font-size: x-large;
+	color:blue;
+	text-align: center;
+}
+input[type=submit]
+{
+	margin-left: 40%;
+	width:30%;
+	background-color: blue;
+	color: white;
+}
